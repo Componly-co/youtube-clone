@@ -11,9 +11,7 @@ export default defineConfig(({ mode }) => {
     // define: {
     //   __VITE_DEV_SERVER__: true, // Enable Vite dev server in production
     // },
-    
     build:{
-
       // rollupOptions: {
       //   external: ['@mui/icons-material',"@mantine/core"] // Mark @mui/icons-material as external
       // },
